@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dkapitan.github.io/recipes/sitemap.xml
