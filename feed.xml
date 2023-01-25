@@ -3,7 +3,7 @@
     <title>kapitan.net/recepten</title>
     <link href="https://dkapitan.github.io/recipes/feed.xml" rel="self" />
     <link href="https://dkapitan.github.io/recipes" />
-    <updated>2023-01-25T08:30:14+01:00</updated>
+    <updated>2023-01-25T11:09:31+01:00</updated>
     <author>
         <name>Daniel Kapitan</name>
     </author>
@@ -84,24 +84,23 @@
         </author>
         <link href="https://dkapitan.github.io/recipes/moeders-aardappelgratin.html"/>
         <id>https://dkapitan.github.io/recipes/moeders-aardappelgratin.html</id>
-        <media:content url="https://dkapitan.github.io/recipes/media/posts/61/aardappelgratin.jpeg" medium="image" />
+        <media:content url="https://dkapitan.github.io/recipes/media/posts/61/aardappelgratin-1024x753.jpeg" medium="image" />
             <category term="Vegetarian"/>
 
-        <updated>2023-01-25T08:28:54+01:00</updated>
+        <updated>2023-01-25T11:09:31+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://dkapitan.github.io/recipes/media/posts/61/aardappelgratin.jpeg" alt="" />
+                        <img src="https://dkapitan.github.io/recipes/media/posts/61/aardappelgratin-1024x753.jpeg" alt="" />
                     Een klassieker uit het Groot Europees Kookboek van Martin van Huijstee (1991)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dkapitan.github.io/recipes/media/posts/61/aardappelgratin.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dkapitan.github.io/recipes/media/posts/61/aardappelgratin-1024x753.jpeg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:wp-recipe-maker/recipe {"id":26367,"updated":1643474912157} --> <!--WPRM Recipe 26367--></p>
 <div class="wprm-fallback-recipe">
 <h2 class="wprm-fallback-recipe-name">Moeder's aardappelgratin</h2>
 <p>Een klassieker uit het Groot Europees Kookboek van Martin van Huijstee (1991)</p>
-<div class="wprm-fallback-recipe-equipment"> </div>
 <div class="wprm-fallback-recipe-ingredients">
 <ul>
 <li>1 teentje knoflook</li>
@@ -133,11 +132,6 @@
 <p>Serveer de gratin in de schaal.</p>
 </li>
 </ol>
-</div>
-<div class="wprm-fallback-recipe-notes"> </div>
-<div class="wprm-fallback-recipe-meta">
-<div class="wprm-fallback-recipe-meta-course">Side Dish</div>
-<div class="wprm-fallback-recipe-meta-cuisine">French</div>
 </div>
 </div>
 <p><!--End WPRM Recipe--> <!-- /wp:wp-recipe-maker/recipe --></p>
