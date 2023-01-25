@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "recipes@kapitan.net",
+    "title": "kapitan.net/recepten",
     "description": "",
     "home_page_url": "https://dkapitan.github.io/recipes",
     "feed_url": "https://dkapitan.github.io/recipes/feed.json",
     "user_comment": "",
+    "icon": "https://dkapitan.github.io/recipes/media/website/kapitan-logo-redbrick-320x132.png",
     "author": {
         "name": "Daniel Kapitan"
     },
